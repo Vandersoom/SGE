@@ -1,2 +1,3 @@
 PROJETO GESTAO DE ESTOQUE FULL STACK E API REST FULL  UTILIZANDO DJANGO , BOOTSTRAP E REST API COM DRF .
-![image](https://github.com/user-attachments/assets/8d5d7dab-d1e2-4577-ba39-4b06b2ceb73b)
+
+![Captura de tela 2025-02-27 063042](https://github.com/user-attachments/assets/d63957fa-366b-4a5c-a8ca-698d7fb05beb)
